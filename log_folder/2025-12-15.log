@@ -1,0 +1,70 @@
+2025-12-15 14:52:01 | INFO     | main:load_audio_from_base64:107 - Audio framerate: 48000 Hz
+2025-12-15 14:52:26 | INFO     | main:process_asr:175 - taskType='ASR' output=[Output(source='স্বামীর ঠিকানায় ভোটার গোতে কি কী কাগজপত্র লাগে')] time_taken=25.109313011169434
+2025-12-15 14:52:36 | INFO     | main:load_audio_from_base64:107 - Audio framerate: 48000 Hz
+2025-12-15 14:52:37 | INFO     | main:process_asr:175 - taskType='ASR' output=[Output(source='হ্যালো')] time_taken=0.34426069259643555
+2025-12-15 14:52:52 | INFO     | main:load_audio_from_base64:107 - Audio framerate: 48000 Hz
+2025-12-15 14:52:53 | INFO     | main:process_asr:175 - taskType='ASR' output=[Output(source='কি ছিন্নমূল ভোটার হলে কোন ঠিকানা ব্যবহার করবে')] time_taken=0.7973904609680176
+2025-12-15 14:52:59 | INFO     | main:load_audio_from_base64:107 - Audio framerate: 48000 Hz
+2025-12-15 14:52:59 | INFO     | main:process_asr:175 - taskType='ASR' output=[Output(source='রবিতে জমা দেওয়ার পরতেদিন পর পতিত্নের জন্য এখানে কাসেন')] time_taken=0.6571950912475586
+2025-12-15 14:53:02 | INFO     | main:load_audio_from_base64:107 - Audio framerate: 48000 Hz
+2025-12-15 14:53:03 | INFO     | main:process_asr:175 - taskType='ASR' output=[Output(source='হ্যালো')] time_taken=0.4233424663543701
+2025-12-15 14:53:18 | INFO     | main:load_audio_from_base64:107 - Audio framerate: 48000 Hz
+2025-12-15 14:53:19 | INFO     | main:process_asr:175 - taskType='ASR' output=[Output(source='তিনতু জন্মবিদেশে কিন্তু বিদ্যা বাংলাদেশে সেক্ষেত্রে কি কি কাগজপত্র দিতে পারি')] time_taken=0.812675952911377
+2025-12-15 14:53:25 | INFO     | main:load_audio_from_base64:107 - Audio framerate: 48000 Hz
+2025-12-15 14:53:25 | INFO     | main:process_asr:175 - taskType='ASR' output=[Output(source='নতুন বন্য আবেদনকারী স্টেটা পাপলনি করমীয় বাহিনী')] time_taken=0.6776072978973389
+2025-12-15 14:53:32 | INFO     | main:load_audio_from_base64:107 - Audio framerate: 48000 Hz
+2025-12-15 14:53:33 | INFO     | main:process_asr:175 - taskType='ASR' output=[Output(source='আবার কতদিন পরে এনআইডি নম্বর পাওয়া সম্ভবহ্যালো')] time_taken=0.7966387271881104
+2025-12-15 14:53:37 | INFO     | main:load_audio_from_base64:107 - Audio framerate: 48000 Hz
+2025-12-15 14:53:37 | INFO     | main:process_asr:175 - taskType='ASR' output=[Output(source='উপ জেলা থেকে ছবি')] time_taken=0.41622185707092285
+2025-12-15 14:53:45 | INFO     | main:load_audio_from_base64:107 - Audio framerate: 48000 Hz
+2025-12-15 14:53:46 | INFO     | main:process_asr:175 - taskType='ASR' output=[Output(source='উপজেলা থেকে ছবি তোলার পর আবার ছবি তুলতে ও কাগজপত্র জমা দিতে এখনের শেষেটি কী করব')] time_taken=0.8706867694854736
+2025-12-15 14:54:14 | INFO     | main:load_audio_from_base64:107 - Audio framerate: 48000 Hz
+2025-12-15 14:54:15 | INFO     | main:process_asr:175 - taskType='ASR' output=[Output(source='আমার এনআইডি নাম পরিবর্তন করতে হবে কী করতে হবে')] time_taken=1.1102886199951172
+2025-12-15 14:54:30 | INFO     | main:load_audio_from_base64:107 - Audio framerate: 48000 Hz
+2025-12-15 14:54:30 | INFO     | main:process_asr:175 - taskType='ASR' output=[Output(source='মাইগ্রেশন করতে কত টাকা লাগে')] time_taken=0.5047919750213623
+2025-12-15 14:54:44 | INFO     | main:load_audio_from_base64:107 - Audio framerate: 48000 Hz
+2025-12-15 14:54:45 | INFO     | main:process_asr:175 - taskType='ASR' output=[Output(source='নমককে টেস খাল রা নাম মকামরি কবে')] time_taken=1.2851738929748535
+2025-12-15 14:54:49 | INFO     | main:load_audio_from_base64:107 - Audio framerate: 48000 Hz
+2025-12-15 14:54:50 | INFO     | main:process_asr:175 - taskType='ASR' output=[Output(source='া তাকি দিতে হয় কি না')] time_taken=0.510728120803833
+2025-12-15 14:54:59 | INFO     | main:load_audio_from_base64:107 - Audio framerate: 48000 Hz
+2025-12-15 14:55:00 | INFO     | main:process_asr:175 - taskType='ASR' output=[Output(source='হা')] time_taken=0.36348700523376465
+2025-12-15 14:55:09 | INFO     | main:load_audio_from_base64:107 - Audio framerate: 48000 Hz
+2025-12-15 14:55:10 | INFO     | main:process_asr:175 - taskType='ASR' output=[Output(source='দি নতুন ভোটার হিসেবে অনলাইনে কিভাবে আবেদন করব')] time_taken=0.6735413074493408
+2025-12-15 14:55:26 | INFO     | main:load_audio_from_base64:107 - Audio framerate: 48000 Hz
+2025-12-15 14:55:27 | INFO     | main:process_asr:175 - taskType='ASR' output=[Output(source='অনলাইনে কি ধরনের আবেদন করা যায়')] time_taken=0.5400142669677734
+2025-12-15 14:55:46 | INFO     | main:load_audio_from_base64:107 - Audio framerate: 48000 Hz
+2025-12-15 14:55:47 | INFO     | main:process_asr:175 - taskType='ASR' output=[Output(source='অনলাইনে কি ধরনের আবেদন করা যায় না')] time_taken=0.5934736728668213
+2025-12-15 14:56:04 | INFO     | main:load_audio_from_base64:107 - Audio framerate: 48000 Hz
+2025-12-15 14:56:04 | INFO     | main:process_asr:175 - taskType='ASR' output=[Output(source='এনআইডি অনলাইন পোর্টালে রেজিস্ট্রেশন করবো কিভাবে')] time_taken=0.5646393299102783
+2025-12-15 14:56:40 | INFO     | main:load_audio_from_base64:107 - Audio framerate: 48000 Hz
+2025-12-15 14:56:40 | INFO     | main:process_asr:175 - taskType='ASR' output=[Output(source='বিলকে অন লিঙে দেওয়ার সুযোগ আছে কি অ্যানআইডি')] time_taken=0.5487580299377441
+2025-12-15 14:56:59 | INFO     | main:load_audio_from_base64:107 - Audio framerate: 48000 Hz
+2025-12-15 14:57:00 | INFO     | main:process_asr:175 - taskType='ASR' output=[Output(source='হ্যালো হ্যালো ম্যাচ মাউন্ড ঠিক করার জন্য কোনো পিল দিতে হবে')] time_taken=0.9318249225616455
+2025-12-15 15:24:44 | INFO     | main:load_audio_from_base64:107 - Audio framerate: 48000 Hz
+2025-12-15 15:24:47 | INFO     | main:process_asr:175 - taskType='ASR' output=[Output(source='আমি ভুলক্রমে দুইবারে জাতীয় পরিচয়পত্র করেছি এখন দুইটি জাতীয় পরিচয়পত্র লক হয়ে আছেকোনো কাজ করতে পারছি না প্রথমবার যে সময় জাতীয় পরিচয়পত্র কুরছি সেটার জন্মদারিক আমার শিক্ষাসনাদের সঙ্গে মিলছে না তবে দ্বিতীয়টির সঙ্গে মিল রয়েছে এখন কী করব')] time_taken=2.4065144062042236
+2025-12-15 15:25:04 | INFO     | main:load_audio_from_base64:107 - Audio framerate: 48000 Hz
+2025-12-15 15:25:06 | INFO     | main:process_asr:175 - taskType='ASR' output=[Output(source='আমি ভুলক্রমে দুইবারে জন্মনিবেনধন করেছি দুটি জন্মনিবন্ধনের তারিখাভিন্ন এখন জাতীয় পরিষদধন সংশোধনের জন্য আবেদন করেছি কিন্তু সংশাধন কর্তৃপক্ষ জানিয়েছে যে দুইটি জ্নিবন্ধন অনলাইনে বিদ্যমান থাকায় আমার আবেদন বাতিল')] time_taken=2.259110689163208
+2025-12-15 15:25:19 | INFO     | main:load_audio_from_base64:107 - Audio framerate: 48000 Hz
+2025-12-15 15:25:21 | INFO     | main:process_asr:175 - taskType='ASR' output=[Output(source='পিতামাতা মারা যাওয়ায় একজন লালন বালন করে ভোটারোওয়ার সময় পালক পিতামাতার নামেই ভোটা রয়েছে এখন তারা পরকৃত মৃত্যমা নয় কী করতে হবে')] time_taken=1.5970759391784668
+2025-12-15 15:28:00 | INFO     | main:load_audio_from_base64:107 - Audio framerate: 48000 Hz
+2025-12-15 15:28:01 | INFO     | main:process_asr:175 - taskType='ASR' output=[Output(source='এনআইডি সংশোধনের জন্য অনলাইনে আবেদন করার এড্রেস কি')] time_taken=0.7602741718292236
+2025-12-15 15:28:14 | INFO     | main:load_audio_from_base64:107 - Audio framerate: 48000 Hz
+2025-12-15 15:28:15 | INFO     | main:process_asr:175 - taskType='ASR' output=[Output(source='আচ্ছা হ্যালো হ্যালো এনআইডি কারেকশন করব কোন ওয়েবসাইটে ঢুকতে হবে')] time_taken=0.8364710807800293
+2025-12-15 15:28:27 | INFO     | main:load_audio_from_base64:107 - Audio framerate: 48000 Hz
+2025-12-15 15:28:28 | INFO     | main:process_asr:175 - taskType='ASR' output=[Output(source='এনআইডি পোর্টালের অ্যড্রেস জানতে চাই')] time_taken=0.49840879440307617
+2025-12-15 15:28:36 | INFO     | main:load_audio_from_base64:107 - Audio framerate: 48000 Hz
+2025-12-15 15:28:36 | INFO     | main:process_asr:175 - taskType='ASR' output=[Output(source='হ্যালো হ্যালো নতুন ভোটার হতে চাই')] time_taken=0.6040225028991699
+2025-12-15 15:28:44 | INFO     | main:load_audio_from_base64:107 - Audio framerate: 48000 Hz
+2025-12-15 15:28:45 | INFO     | main:process_asr:175 - taskType='ASR' output=[Output(source='হ্যালো আমি হ্যালো আমি জাতীয় পরিচয় গত্র করতে চাই')] time_taken=0.6472129821777344
+2025-12-15 15:28:58 | INFO     | main:load_audio_from_base64:107 - Audio framerate: 48000 Hz
+2025-12-15 15:28:58 | INFO     | main:process_asr:175 - taskType='ASR' output=[Output(source='নতুন এনআইডি কার্ড করতে কি করব')] time_taken=0.5426599979400635
+2025-12-15 15:29:08 | INFO     | main:load_audio_from_base64:107 - Audio framerate: 48000 Hz
+2025-12-15 15:29:09 | INFO     | main:process_asr:175 - taskType='ASR' output=[Output(source='হ্যালো হ্যালো নতুন নিবন্ধনের জন্য কি কি ডকুমেন্ট জমা দিতে হয়')] time_taken=0.8173832893371582
+2025-12-15 15:29:20 | INFO     | main:load_audio_from_base64:107 - Audio framerate: 48000 Hz
+2025-12-15 15:29:21 | INFO     | main:process_asr:175 - taskType='ASR' output=[Output(source='হ্যালো আমার এনআইডি কার্ড তথ্য বুল আছে কি করব')] time_taken=0.76924729347229
+2025-12-15 15:29:31 | INFO     | main:load_audio_from_base64:107 - Audio framerate: 48000 Hz
+2025-12-15 15:29:31 | INFO     | main:process_asr:175 - taskType='ASR' output=[Output(source='হ্যালো হ্যালো এনআইডি কার্ডে নিজ নামের সংশোধনের জন্য কি ডকুমেন্টস লাগবে')] time_taken=0.9385800361633301
+2025-12-15 15:29:44 | INFO     | main:load_audio_from_base64:107 - Audio framerate: 48000 Hz
+2025-12-15 15:29:45 | INFO     | main:process_asr:175 - taskType='ASR' output=[Output(source='হ্যালো এনআইডি কার্ডে পিতামাতার নাম সংশোধনের জন্য কি ডকুমেন্টস লাগবে')] time_taken=0.9068937301635742
+2025-12-15 15:29:55 | INFO     | main:load_audio_from_base64:107 - Audio framerate: 48000 Hz
+2025-12-15 15:29:56 | INFO     | main:process_asr:175 - taskType='ASR' output=[Output(source='হ্যালো হ্যালো স্বামীর ঠিকানায় ভোটার হুতে কি কি কাগজপত্র লাগে')] time_taken=0.8136816024780273
