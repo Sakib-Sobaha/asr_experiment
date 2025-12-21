@@ -5,6 +5,7 @@
 # ✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦
 import torch
 import numpy as np
+import librosa
 from transformers import Wav2Vec2ForCTC, Wav2Vec2Processor
 from scipy.signal import resample
 import wave
@@ -112,9 +113,12 @@ def load_audio_from_base64(audio_content: str, target_rate=RATE):
             # audio_data = normalize_audio(audio_data=audio_data)
 
             # Resample audio if the sample rate is not the target rate (16kHz)
+            # if framerate != target_rate:
+            #     num_samples = round(len(audio_data) * target_rate / framerate)
+            #     audio_data = resample(audio_data, num_samples)
             if framerate != target_rate:
-                num_samples = round(len(audio_data) * target_rate / framerate)
-                audio_data = resample(audio_data, num_samples)
+                audio_data = librosa.resample(audio_data, orig_sr=framerate, target_sr=target_rate)
+                logger.info(f"Audio resampled to {target_rate} Hz")
 
             return audio_data
 
@@ -132,6 +136,7 @@ def transcribe_audio(audio_data):
     predicted_ids = torch.argmax(logits, dim=-1)
     transcription = processor.batch_decode(predicted_ids)[0]
 
+    # hardcoded transcription fixing 
     if AUTO_CORRECTION:
         transcription = fix_transcription_output(transcription)
 
